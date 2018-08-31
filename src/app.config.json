@@ -1,0 +1,9 @@
+{
+    "local":{
+        "db":{
+            "host":"localhost",
+            "port":8200,
+            "schema":"guscrawford-dot-com"
+        }
+    }
+}
